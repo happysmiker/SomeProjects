@@ -8,7 +8,7 @@ namespace EWT.Utilities
 {
     public static class Tools
     {
-        public static string GetEWTDBConnection { get { return "User ID=sql_hosseini;Password=MHosseini;Persist Security Info=True;Initial Catalog=EWTDB2;Data Source=a-server"; } }
+        public static string GetEWTDBConnection { get { return "User ID=sql_hosseini;Password=******;Persist Security Info=True;Initial Catalog=EWTDB2;Data Source=a-server"; } }
 
         public static Structs.UserInfoStruct UserInfo { get; set; }
         public static string CurrentDate
