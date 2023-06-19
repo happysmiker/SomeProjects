@@ -34,4 +34,6 @@ there is also dynamic search and a well-structured data picker exclusively devel
 
 in the end, there are some reports made with stimulsoft available for different roles and a Power BI dashboard embedded in the application.
 
+ps:
+
 <b>For Security The password has been removed from the project</b>
